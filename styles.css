@@ -23,3 +23,15 @@ svg {
 .attribution a {
   color: hsl(228, 45%, 44%);
 }
+
+.success__wrapper {
+  display: none;
+}
+
+button {
+  display: block;
+}
+
+input#email {
+  display: block;
+}
